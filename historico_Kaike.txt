@@ -1,0 +1,2 @@
+curtidas: Proibida Pra Mim
+descurtidas: 
